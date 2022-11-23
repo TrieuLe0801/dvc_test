@@ -1,2 +1,2 @@
 # dvc_test
-Test dvc reposity
+Test dvc repository
