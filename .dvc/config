@@ -1,0 +1,7 @@
+[core]
+    remote = minio
+['remote "minio"']
+    url = s3://botchamcong/ml-artifacts/
+    endpointurl = https://minio.dev.ftech.ai/
+    access_key_id = botchamcong
+    secret_access_key = Ye4uQ9Pi81DnyMS7aJvICHpTjbBmZU
