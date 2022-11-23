@@ -1,0 +1,5 @@
+outs:
+- md5: 948e4bbd956553bc43d22d12597016fb.dir
+  size: 20
+  nfiles: 1
+  path: hatexd_data
